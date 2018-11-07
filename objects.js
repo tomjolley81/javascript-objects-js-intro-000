@@ -1,1 +1,3 @@
-Object.assign({}, playlist, {"Aerosmith": ["Love in an elevator"]})
+var playlist = {
+  "Aerosmith": "Love in an elevator"
+}
